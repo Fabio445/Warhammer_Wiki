@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Moria Citadel';
+    src: url('../assets/fonts/Moria_DF.TTF') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  h1 {
+    font-family: 'Moria Citadel', sans-serif;
+    text-align: center;
+  }
+  
